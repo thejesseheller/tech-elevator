@@ -1,2 +1,2 @@
 # tech-elevator
-Capstones
+Capstone projects completed during my time at Tech Elevator.
