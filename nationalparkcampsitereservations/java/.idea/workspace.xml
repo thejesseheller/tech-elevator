@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2257d3c-5176-4f35-99f7-362e956ff5d8" name="Default Changelist" comment="" />
+    <list default="true" id="b2257d3c-5176-4f35-99f7-362e956ff5d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/campground/CampgroundDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/campground/CampgroundDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/park/ParkDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/park/ParkDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/reservation/ReservationDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/reservation/ReservationDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenmo/java/tenmo-client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tenmo/java/tenmo-client/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenmo/java/tenmo-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tenmo/java/tenmo-client/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +41,12 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -168,17 +176,17 @@
     <SUITE FILE_PATH="coverage/capstone$JDBCDAOParkIntegrationTest.ic" NAME="JDBCDAOParkIntegrationTest Coverage Results" MODIFIED="1592682457684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.techelevator.park.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/capstone$com_techelevator_campground_in_capstone.ic" NAME="com.techelevator.campground in capstone Coverage Results" MODIFIED="1592682737535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.techelevator.campground.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/capstone$JDBCDAOSiteIntegrationTest.ic" NAME="JDBCDAOSiteIntegrationTest Coverage Results" MODIFIED="1592682490894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.techelevator.site.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/capstone$com_techelevator_park_in_capstone.ic" NAME="com.techelevator.park in capstone Coverage Results" MODIFIED="1592682725987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.park.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/capstone$JDBCDAOCampgroundIntegrationTest.ic" NAME="JDBCDAOCampgroundIntegrationTest Coverage Results" MODIFIED="1592682641456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.techelevator.campground.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/capstone$com_techelevator_park_in_capstone.ic" NAME="com.techelevator.park in capstone Coverage Results" MODIFIED="1592682725987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.techelevator.park.*</FILTER>
+    <SUITE FILE_PATH="coverage/capstone$com_techelevator_campground_in_capstone.ic" NAME="com.techelevator.campground in capstone Coverage Results" MODIFIED="1592682737535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.campground.*</FILTER>
     </SUITE>
   </component>
 </project>

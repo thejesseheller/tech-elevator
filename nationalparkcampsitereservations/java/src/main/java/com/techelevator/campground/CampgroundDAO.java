@@ -5,10 +5,10 @@ import java.util.List;
 
 public interface CampgroundDAO {
 	
-	public List<Campground> getAllCampgrounds();
+	List<Campground> getAllCampgrounds();
 	
-	public Campground getCampgroundByCampgroundId(Long campgroundId);
+	Campground getCampgroundByCampgroundId(Long campgroundId);
 	
-	public List<Campground>getCampgroundByParkId(Long parkId);
+	List<Campground>getCampgroundByParkId(Long parkId);
 
 }

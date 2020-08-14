@@ -7,10 +7,10 @@ import com.techelevator.site.Site;
 
 public interface ReservationDAO {
 
-    public List<Reservation> getAllReservations();
-    public Reservation createReservation(Reservation reservation);
-    public Reservation searchForReservationByReservationId(Long resIdSearch);
-    public List<Reservation> searchUpcomingRes(Long parkId);
+    List<Reservation> getAllReservations();
+    Reservation createReservation(Reservation reservation);
+    Reservation searchForReservationByReservationId(Long resIdSearch);
+    List<Reservation> searchUpcomingRes(Long parkId);
 
 
 }
